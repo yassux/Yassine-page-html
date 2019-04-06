@@ -1,6 +1,10 @@
 h3{
  color: blue;
  font-size: 150px;
+ width: 200px;
+    height:200px;
+    background-color: #169098;
+    margin: 0 auto;
 }
 
 p{
