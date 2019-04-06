@@ -11,5 +11,8 @@ p{
 
 body{
  background-color: #E8FBFC;
+ width: 200px;
+ height: 200px;
+ margin: 40px auto;
 }
 
