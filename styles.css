@@ -6,4 +6,12 @@ body {
 	margin: 0 auto;
 	position: relative;
 }
-
+div#center {
+	padding-bottom: 50px; 
+}
+div#footer {
+	position: absolute;
+	width: 750px;
+	bottom: 0;
+	left: 10px;
+}
