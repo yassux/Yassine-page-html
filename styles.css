@@ -1,4 +1,6 @@
-
+h1{
+ font-family:"cursive", times, serif;
+}
 body{
 	min-height: 30%;
 	width: 750px;
