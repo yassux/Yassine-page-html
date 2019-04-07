@@ -6,8 +6,7 @@ h3{
 
 body{
  background-color: #E8FBFC;
- width: auto;
- height: auto;
- margin: 20px auto;
+ margin: 0 auto;
+ max-width: 50em;
 }
 
