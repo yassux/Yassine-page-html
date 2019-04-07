@@ -1,6 +1,4 @@
-h1{
- font-family:cursive, times, serif;
-}
+
 body{
 	min-height: 10%;
 	width: 750px;
@@ -11,10 +9,6 @@ body{
 
 p1{
 	color: blue;
-}
-
-footer{
-	color: red;
 }
 
 
