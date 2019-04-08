@@ -1,6 +1,6 @@
 h1{
  	font-family:cursive, times, serif;
-	font-size: 200px;
+	font-size: 60px;
 }
 
 body{
@@ -10,6 +10,7 @@ body{
 	margin: 350px;
 	position: relative;
 	background-color: #DDEDEE;
+	text-align=center;
 }
 
 p1{
