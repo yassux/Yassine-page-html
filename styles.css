@@ -1,6 +1,5 @@
 h1{
  	font-family:cursive, times, serif;
-	backgroud-color: #DDEDEE;
 }
 
 body{
@@ -9,15 +8,11 @@ body{
 	padding: 0 10px;
 	margin: 350px;
 	position: relative;
+	backgroud-color: #DDEDEE;
 }
 
 p1{
 	color: blue;
 }
-
-body{
-	backgroud-color: #DDEDEE;
-}
-
 
 
