@@ -2,11 +2,11 @@ h1{
  	font-family:cursive, times, serif;
 }
 
-body{
+.body{
 	min-height: 10%;
 	width: 750px;
 	padding: 0 10px;
-	margin: 350px;
+	margin: auto;
 	position: relative;
 	backgroud-color: #DDEDEE;
 }
