@@ -1,13 +1,13 @@
 h1{
  	font-family:cursive, times, serif;
-	font-size: 60px;
+	font-size: 20px;
 }
 
 body{
 	min-height: 10%;
 	width: 750px;
 	padding: 0 10px;
-	margin: 350px;
+	margin: auto;
 	position: relative;
 	background-color: #DDEDEE;
 	text-align=center;
